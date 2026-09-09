@@ -1,0 +1,92 @@
+Fatal gummy bear.webp
+size:2017,847
+filter:Linear,Linear
+pma:true
+L_arm
+bounds:811,114,122,204
+L_arm_stroke
+bounds:1161,46,136,218
+rotate:90
+L_eye_01
+bounds:2,4,20,26
+offsets:1,1,22,28
+rotate:90
+L_eye_01_stroke
+bounds:1949,49,34,40
+offsets:1,1,36,42
+L_eye_02
+bounds:1765,12,77,86
+offsets:1,1,79,88
+rotate:90
+L_eye_02_stroke
+bounds:1566,4,91,100
+offsets:1,1,93,102
+L_eye_brown
+bounds:1853,26,94,63
+offsets:1,2,96,66
+L_eye_brown_stroke
+bounds:1788,91,108,77
+offsets:1,2,110,80
+Layer 18
+bounds:1736,513,92,137
+rotate:90
+Layer 18_stroke
+bounds:1909,694,106,151
+Layer 21
+bounds:1381,51,92,137
+Layer 21_stroke
+bounds:1909,541,106,151
+Layer 4
+bounds:938,517,407,328
+Layer 7
+bounds:1661,170,336,328
+Layer 9
+bounds:2,26,469,278
+offsets:0,2,472,280
+R_arm
+bounds:935,25,157,224
+rotate:90
+R_arm_stroke
+bounds:1736,607,171,238
+R_eye_01
+bounds:929,2,21,29
+offsets:1,1,23,31
+rotate:90
+R_eye_01_stroke
+bounds:1618,145,35,43
+offsets:1,1,37,45
+R_eye_02
+bounds:1475,2,102,89
+offsets:1,1,104,92
+rotate:90
+R_eye_02_stroke
+bounds:811,9,116,103
+offsets:1,1,118,106
+R_eye_brown
+bounds:1659,100,127,68
+offsets:2,1,131,70
+R_eye_brown_stroke
+bounds:1475,106,141,82
+offsets:2,1,145,84
+body
+bounds:477,24,332,294
+body_stroke
+bounds:1313,190,346,308
+hat
+bounds:477,320,459,525
+offsets:1,1,462,527
+hat_stroke
+bounds:2,306,473,539
+offsets:1,1,476,541
+head_01
+bounds:938,184,373,331
+offsets:2,1,376,333
+head_01_stroke
+bounds:1347,500,387,345
+offsets:2,1,390,347
+head_02
+bounds:1898,91,90,77
+offsets:2,2,94,80
+head_02_stroke
+bounds:1659,7,104,91
+offsets:2,2,108,94
