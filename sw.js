@@ -10,8 +10,8 @@
  * Obfuscation, not security: the key is right here, and what the GPU draws can
  * be captured. It stops the download-the-folder case, nothing more.
  */
-const PACK_KEY_HEX = "55b68fd4deab37f151ded4cf2c44591570c446bb47df6c83605f86b74d4d8a2b";
-const PACK_URL = "/bouncy-bison/assets/game-dbae6d9ebe15.pack";
+const PACK_KEY_HEX = "f18bc39774e1a1f44c16298ce6ebc91ea2f4fb61a1c5360af73b7c6bf426def5";
+const PACK_URL = "/bouncy-bison/assets/game-acf7b34c4c35.pack";
 const SCOPE = "/bouncy-bison/";
 const PACKED_DIRS = ["spine","entities","environment","ui","vfx"];
 
